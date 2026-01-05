@@ -1,0 +1,28 @@
+  {
+      "valid": false,
+      "message": "Licencia no encontrada",
+      "status": "inactive",
+      "plan": "none",
+      "expires_at": null,
+      "user_name": null,
+      "license_token": null,
+      "permissions": {
+          "bulk_send": false,
+          "contact_management": false,
+          "get_chats": false,
+          "label_filters": false,
+          "scheduled_messages": false,
+          "send_images": false,
+          "send_messages": false,
+          "tab_ai": false,
+          "tab_aplicaciones": false,
+          "tab_broadcast": false,
+          "tab_calendar": false,
+          "tab_contact": false,
+          "tab_quick": false,
+          "tab_reminders": false,
+          "tab_sequence": false,
+          "tab_settings": false,
+          "tab_tienda": false
+      }
+  }
