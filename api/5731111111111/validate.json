@@ -1,0 +1,28 @@
+{
+      "valid": true,
+      "message": "Licencia válida - Plan Trial",
+      "status": "active",
+      "plan": "trial",
+      "expires_at": "2026-02-01 23:59:59",
+      "user_name": "Usuario Trial",
+      "license_token": "trial123",
+      "permissions": {
+          "bulk_send": true,
+          "contact_management": true,
+          "get_chats": true,
+          "label_filters": false,
+          "scheduled_messages": false,
+          "send_images": true,
+          "send_messages": true,
+          "tab_ai": false,
+          "tab_aplicaciones": false,
+          "tab_broadcast": false,
+          "tab_calendar": false,
+          "tab_contact": true,
+          "tab_quick": true,
+          "tab_reminders": false,
+          "tab_sequence": false,
+          "tab_settings": true,
+          "tab_tienda": false
+      }
+  }
