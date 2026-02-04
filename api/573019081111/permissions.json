@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "plan": "premium",
+    "permissions": {
+        "bulk_send": true,
+        "contact_management": true,
+        "get_chats": true,
+        "label_filters": true,
+        "scheduled_messages": true,
+        "send_images": true,
+        "send_messages": true,
+        "tab_ai": true,
+        "tab_aplicaciones": true,
+        "tab_broadcast": true,
+        "tab_calendar": true,
+        "tab_contact": true,
+        "tab_quick": true,
+        "tab_reminders": true,
+        "tab_sequence": true,
+        "tab_settings": true,
+        "tab_tienda": true
+    }
+}
