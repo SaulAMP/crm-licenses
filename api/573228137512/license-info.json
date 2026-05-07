@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "license_info": {
+        "phone": "573228137512",
+        "token": "c92afdbc",
+        "token_created_at": "2026-01-04 20:37:19",
+        "user_name": "Usuario Premium Enterprise",
+        "user_email": "premium@empresa.com",
+        "plan": "enterprise",
+        "status": "active",
+        "expires_at": "2099-12-31 23:59:59",
+        "created_at": "2026-01-04 20:37:19",
+        "last_validation": "2026-01-05 12:00:00"
+    }
+}
